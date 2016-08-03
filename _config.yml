@@ -1,4 +1,3 @@
-layout_spectrum: 0.6039907904341817
 typography_spectrum: 0.1478589503094554
 color:
   brandStrength: 0.039896649308502674
@@ -11,5 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.6039907904341817
 name: Untethered Insight
 title: Test The Grid
+description: What can it do?
