@@ -12,6 +12,9 @@ color:
     - '#ADD5F7'
 layout_spectrum: 0.6039907904341817
 name: Untethered Insight
-navigation: []
+navigation:
+  - name: About
+    id: 501b8262-7013-4c33-a146-09c6b093d65f
+    type: content
 title: Test The Grid
 description: What can it do?
