@@ -16,5 +16,8 @@ navigation:
   - name: About
     id: 501b8262-7013-4c33-a146-09c6b093d65f
     type: content
+  - name: The Journey
+    id: 7e3214ba-f114-44c9-8fb6-cd06e465384a
+    type: content
 title: Test The Grid
 description: What can it do?
