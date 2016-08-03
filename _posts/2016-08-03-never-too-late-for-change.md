@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-03T03:54:56.290Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/529945a5-6a29-46e0-9c8f-693bac9f424b.jpg
+datePublished: '2016-08-03T03:57:35.851Z'
 author: []
 via: {}
-dateModified: '2016-08-03T03:54:47.102Z'
+dateModified: '2016-08-03T03:57:35.518Z'
 title: ''
 publisher: {}
 description: Never Too Late For Change!
-starred: false
 sourcePath: _posts/2016-08-03-never-too-late-for-change.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: never-too-late-for-change/index.html
 _type: MediaObject
 
 ---
